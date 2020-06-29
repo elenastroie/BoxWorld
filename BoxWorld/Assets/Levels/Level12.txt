@@ -1,0 +1,10 @@
+8 8
+W W W W W W W W
+W W W T _ _ P W
+W _ _ _ W _ W W
+W W _ B _ B W W
+W T _ _ _ _ T W
+W B W _ B W W W
+W _ _ _ T _ _ W
+W W W W W W W W
+19

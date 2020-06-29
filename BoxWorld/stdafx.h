@@ -1,0 +1,15 @@
+#pragma once
+#include <SFML/Graphics.hpp>
+#include <SFML/Audio.hpp>
+#include <SFML/System.hpp>
+#include <SFML/Window.hpp>
+#include <SFML/Window/Event.hpp>
+#include <SFML/Graphics/Drawable.hpp>
+#include <SFML/Graphics/Texture.hpp>
+#include <SFML/System/Clock.hpp>
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include <unordered_map>
+#include <unordered_set>
+#include <list>
